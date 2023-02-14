@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad51aaf4.css",
+    "main.js": "/static/js/main.3687fa9a.js",
+    "static/js/787.b982fe41.chunk.js": "/static/js/787.b982fe41.chunk.js",
+    "static/media/foodBackground.jpg": "/static/media/foodBackground.974614a5f3b0a5d58d0d.jpg",
+    "static/media/homeTwo.png": "/static/media/homeTwo.53981cda3a6a92948d7b.png",
+    "static/media/homeDog.png": "/static/media/homeDog.626b3e8377ddef31481c.png",
+    "static/media/logo.png": "/static/media/logo.e67f6f1dfbaa1bc41d74.png",
+    "static/media/beltBackground.jpg": "/static/media/beltBackground.f7eefdff3f7c50b8fc5a.jpg",
+    "static/media/healthCareBackground.jpg": "/static/media/healthCareBackground.51fab7e2cc4cad39b226.jpg",
+    "static/media/instock.png": "/static/media/instock.ad961e27dfe1b3991658.png",
+    "static/media/error.webp": "/static/media/error.35f7190bb76d360d7721.webp",
+    "static/media/homeTwoFood.png": "/static/media/homeTwoFood.84addc1e8e03399c7be8.png",
+    "static/media/linkedin.png": "/static/media/linkedin.fdbabc696c81551f40b0.png",
+    "static/media/homeBookButton.png": "/static/media/homeBookButton.0d0ae49614f3036b54f5.png",
+    "static/media/app-store.webp": "/static/media/app-store.1a80a911618bef11cfa0.webp",
+    "static/media/googleplay.webp": "/static/media/googleplay.8ca0b6dc467af1ec801b.webp",
+    "index.html": "/index.html",
+    "static/media/add.svg": "/static/media/add.5a0c04092b4418593c6f91f41ea9222f.svg",
+    "main.ad51aaf4.css.map": "/static/css/main.ad51aaf4.css.map",
+    "main.3687fa9a.js.map": "/static/js/main.3687fa9a.js.map",
+    "787.b982fe41.chunk.js.map": "/static/js/787.b982fe41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad51aaf4.css",
+    "static/js/main.3687fa9a.js"
+  ]
+}
